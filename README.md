@@ -1,6 +1,6 @@
 # CPE-411-CPE22S4-Interactive-Extended-Reality-
 
-*Hey there!*  👋
+*Hey there!👋
 
 I’m **Gabriel Avila**, a future Computer Engineering graduate with a focus on Human-Computer Interaction.
 
